@@ -11,8 +11,7 @@ linkedin-post-generator/
 ├── app.py               # Main Streamlit app
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project documentation
-├── .env                 # Environment variables (GOOGLE_API_KEY=...)
-└── venv/                # Virtual environment (local, not committed)
+└── .env                 # Environment variables (GOOGLE_API_KEY=...)
 ```
 
 ## 💻 How to Clone and Run Locally
