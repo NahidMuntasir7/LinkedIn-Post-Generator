@@ -18,7 +18,7 @@ linkedin-post-generator/
 └── .env                 # Environment variables (GOOGLE_API_KEY=...)
 ```
 
-## 💻 How to Clone and Run Locally
+## 💻 How to Clone and Run Locally (For Windows)
 
 1️⃣ Get a Google AI API Key  
 - Visit: https://makersuite.google.com/app/apikey  
@@ -42,10 +42,6 @@ python -m venv venv
 - Windows:
 ```bash
 venv\Scripts\activate
-```
-- macOS/Linux:
-```bash
-source venv/bin/activate
 ```
 
 5️⃣ Install and Run
