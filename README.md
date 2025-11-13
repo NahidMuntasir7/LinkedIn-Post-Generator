@@ -5,6 +5,16 @@ AI-powered web app that generates professional LinkedIn posts in 10+ languages u
 ## 🛠️ Tech Stack
 - Python · Streamlit · LangChain · Google Gemini 2.5 Flash · python-dotenv
 
+## 📁 Project Structure
+```
+linkedin-post-generator/
+├── app.py               # Main Streamlit app
+├── requirements.txt     # Python dependencies
+├── README.md            # Project documentation
+├── .env                 # Environment variables (GOOGLE_API_KEY=...)
+└── venv/                # Virtual environment (local, not committed)
+```
+
 ## 💻 How to Clone and Run Locally
 
 1️⃣ Get a Google AI API Key  
