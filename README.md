@@ -67,5 +67,3 @@ streamlit run app.py
 - Professional, structured content with a hook
 - One-click download as .txt
 - Clean, simple Streamlit UI
-
----
