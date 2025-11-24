@@ -2,6 +2,11 @@
 
 AI-powered web app that generates professional LinkedIn posts in 10+ languages using Google Gemini AI via LangChain and Streamlit.
 
+# Project Walkthrough Video Link
+https://drive.google.com/file/d/1OH1q-h-NSOeDhlYAz1Gw-FaSWrU4yE-T/view
+
+---
+
 ## 🛠️ Tech Stack
 - Python
 - Streamlit
